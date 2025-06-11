@@ -1,0 +1,10 @@
+let a = {id : 52, age : 28, adress : "chennai"}
+let b = Object.keys(a)
+let c = Object.values(a)
+let d = Object.entries(a)
+let e = Object.fromEntries(d)
+console.log(a)
+console.log(b)
+console.log(c)
+console.log(d)
+console.log(e)

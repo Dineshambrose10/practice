@@ -17,3 +17,4 @@ let c = a.filter(odd=>odd%2!=0)
 console.log(c)
 let d = a.filter(isPrime);
 console.log(d)
+console.log(C)
